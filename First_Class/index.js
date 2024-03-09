@@ -1,0 +1,5 @@
+const app = require('./app')
+console.log("HEllo")
+console.log(app.x)
+console.log(app.y)
+console.log(app.sum(10, 2))
